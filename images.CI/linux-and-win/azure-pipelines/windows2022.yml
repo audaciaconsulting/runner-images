@@ -18,3 +18,5 @@ jobs:
   parameters:
     image_type: windows2022
     image_readme_name: Windows2022-Readme.md
+    agent_pool: windows-latest
+    create_release: false
